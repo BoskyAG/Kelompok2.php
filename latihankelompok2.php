@@ -1,3 +1,10 @@
+Kelompok 2
+zulfahriansyah
+salsabila ramadhani
+risnaini assafiyah
+widya indah dwi lestari
+aidil ramadhan
+
 <?php
 function hitungDiskon($jumlahBayar) {
     // Menentukan besar diskon berdasarkan jumlah bayar
